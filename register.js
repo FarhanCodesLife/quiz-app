@@ -66,7 +66,8 @@ else{
 
         adduser()
     
-       }   
+       }  
+      
     
 
 
@@ -84,4 +85,9 @@ window.location = 'index.html'
 
 
     
-    
+
+
+
+
+
+
